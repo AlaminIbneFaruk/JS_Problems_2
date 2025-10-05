@@ -1,0 +1,1 @@
+// string length without using str.length

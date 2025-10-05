@@ -1,0 +1,1 @@
+// Print each character of a string in a new line
